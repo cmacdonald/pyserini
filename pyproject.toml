@@ -36,7 +36,6 @@ dependencies = [
     "fastapi>=0.124",
     "fastmcp>=2.14",
     "flask",
-    "matplotlib",
     "numpy>=2",
     "onnxruntime>=1.23",
     "openai>=2.12.0",
